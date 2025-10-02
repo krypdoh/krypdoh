@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Krypdoh</h1>
 <h3 align="center">A network engineer living in New York City</h3>
 
-- 🔭 I’m currently working with **SASE and SDWAN products**
+- 🔭 I’m currently working with **SASE and SDWAN Networking products**
 
-- 🌱 I’m currently learning **CISSP**
+- 🌱 I’m currently studying **CISSP**
 
 - 📫 How to reach me **krypdoh@gmail.com**
 
