@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-- 📨 How to reach me **krypdoh at gmail.com**
+- 📨 Email **krypdoh at gmail.com**
 
 </p>
 <h3 align="left">Languages and Tools:</h3>
