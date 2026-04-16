@@ -16,9 +16,8 @@
 
 </p>
 <h3 align="left">Languages and Tools:</h3>
-
+<iframe srcdoc="
 <table border="0" bordercolor="black" cellspacing="0" cellpadding="8" frame="void" rules="none"><tr>
-<div style="all: initial;">
 <td><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/gnubash/4EAA25" alt="bash" width="40" height="40"/></a></td>
 <td><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a></td>
 <td><a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="40" height="40"/></a></td>
@@ -27,5 +26,5 @@
 <td><a href="https://github.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/github/ffffff" alt="github" width="40" height="40"/></a></td>
 <td><a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="windows" width="40" height="40"/></a></td>
 <td><a href="https://www.anthropic.com/claude" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/anthropic/ffffff" alt="claude" width="40" height="40"/></a></td>
-</div></tr></table>
+</div></tr></table>"</iframe>
 
