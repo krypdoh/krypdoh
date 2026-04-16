@@ -17,7 +17,7 @@
 </p>
 <h3 align="left">Languages and Tools:</h3>
 
-<table border="0"><tr>
+<table border="0" cellspacing="0" cellpadding="8" frame="void" rules="none"><tr>
 <td><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/gnubash/4EAA25" alt="bash" width="40" height="40"/></a></td>
 <td><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a></td>
 <td><a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="40" height="40"/></a></td>
