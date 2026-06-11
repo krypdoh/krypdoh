@@ -22,4 +22,4 @@
 
 <h3 align="left">My Github Portfolio:</h3>
 
-<img src="https://raw.githubusercontent.com/krypdoh/github-cards/refs/heads/main/ALL.png?token=GHSAT0AAAAAAD3CXP3MWW7WPKBOTZ7PIWXC2RLE7LA" "alt=portfolio"/>
+<img src="https://raw.githubusercontent.com/krypdoh/github-cards/refs/heads/main/ALL.png?token=GHSAT0AAAAAAD3CXP3MWW7WPKBOTZ7PIWXC2RLE7LA" alt="portfolio"/>
